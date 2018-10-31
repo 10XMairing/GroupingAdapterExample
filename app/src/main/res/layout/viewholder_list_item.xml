@@ -11,7 +11,7 @@
         tools:text="This is item 1"
         android:gravity="center"
         android:background="@drawable/bg_item"
-        android:textColor="#ffffff"
+        android:textColor="#252323"
         android:layout_margin="3dp"
         />
 
